@@ -10,6 +10,8 @@ Nesta seção você deve detalhar as personas do seu projeto. Deve-se documentar
 
 ## 4.2 Mapa de Empatia
 
+Mapa de Empatia: Matheus Rodrigues
+
 1. O que ele VÊ?
 
 -Descreve o ambiente e o mercado ao redor dele.
